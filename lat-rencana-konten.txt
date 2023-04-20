@@ -2,5 +2,6 @@ LATIHAN RENCANA KONTEN
 - membuat rangkuman js
   * ES6
   * Framwork js
+- struktur data dasar
 - interview
 - vlog
