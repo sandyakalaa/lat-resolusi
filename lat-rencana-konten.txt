@@ -1,0 +1,6 @@
+LATIHAN RENCANA KONTEN
+- membuat rangkuman js
+  * ES6
+  * Framwork js
+- interview
+- vlog
